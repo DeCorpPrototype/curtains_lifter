@@ -1,5 +1,6 @@
 include <coilHolder.scad>
 
-$fn = 100;
+$fn = 50;
 
 coilHolder();
+
